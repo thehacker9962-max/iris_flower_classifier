@@ -84,7 +84,7 @@ AI/ML and Data Analyst
 
 Email: mrpatelrj39@gmail.com
 
-[portflio](mrpatelrj.in)
+portflio: mrpatelrj.in
 
 ## License
 
